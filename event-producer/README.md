@@ -1,2 +1,2 @@
-# complex-event-processer
-即時事件 分析平台
+# event-producer
+使用 Spring Scheduler 定時發送消息到 Kafka 的 Topic
