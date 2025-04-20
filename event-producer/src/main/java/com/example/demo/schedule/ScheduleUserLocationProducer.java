@@ -1,6 +1,7 @@
-package com.example.demo.service;
+package com.example.demo.schedule;
 
 import com.example.demo.model.bo.UserData;
+import com.example.demo.service.UserLocationService;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
